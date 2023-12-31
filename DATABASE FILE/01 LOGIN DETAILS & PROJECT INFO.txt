@@ -1,7 +1,7 @@
 
 **Database Name: food_delivery_system**
 
-**Developed by Amit Kr. yadav**
+**Developed by MR. UJWOL SHRESTHA, MS. NIKITA ACHARYA AND MR. RAKESH K. YADAV, Mr.Amit Kr. Yadav**
 
 **Recommended PHP Version 5.6, 7.4**
 
